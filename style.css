@@ -1,0 +1,25 @@
+.BOX{
+    width: 300px;
+    height: max-content;
+    border-radius: 10px;
+}
+.image{
+    width: 300px;
+    height: max-content;}
+.para{
+    text-align: center;
+    }
+.MRP{
+    font-size: 14px;
+
+}
+.size{
+
+}
+.main2{
+    align-items: center;
+    margin-top: 20px;
+}
+.xg{
+    color: blueviolet;
+}
